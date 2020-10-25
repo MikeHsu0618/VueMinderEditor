@@ -1,4 +1,3 @@
 module.exports = {
-  NODE_ENV: '"production"',
-  publicPath: ''
+  NODE_ENV: '"production"'
 }
